@@ -1,7 +1,7 @@
-marque on header
-click link section with about
-departments
-address
-feedback
-gallery
-admission form (name gender country message)
+ marque on header
+ click link section with about
+ departments
+ address
+ feedback
+ gallery
+ admission form (name gender country message)
